@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579508960214",
+    "firebase_url": "https://logindemo2-91826.firebaseio.com",
+    "project_id": "logindemo2-91826",
+    "storage_bucket": "logindemo2-91826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579508960214:android:b6e72b92706e0e36",
+        "android_client_info": {
+          "package_name": "com.example.shibam.logindemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579508960214-ipc7m3bocfr9cumbevvuja5r5kvfpr2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHQQc5gY2Vir1t9NLhBj_GfKaQyFSiSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
